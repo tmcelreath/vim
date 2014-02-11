@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/timm/workspace/appium/instrumentscli0.trace'
+let g:netrw_dirhist_2='/Users/timm/workspace/automation/skate-automation-testing'
+let g:netrw_dirhist_3='/Users/timm/workspace/automation/nike_skate_automation/instrumentscli1.trace'
+let g:netrw_dirhist_4='/Users/timm/workspace/appium/bin/instrumentscli0.trace'
